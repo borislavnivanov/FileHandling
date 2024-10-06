@@ -1,5 +1,4 @@
 import os
-from asyncio import get_running_loop
 
 files = os.listdir('./')
 
